@@ -52,7 +52,7 @@ onmessage = function(e) {
       .then(fileEntry => {
         postMessage(fileEntry.toURL());
         isBusy = false;
-        if (queue) {
+        if (queue.length) {
           onmessage(queue[0]);
           queue = queue.splice(1, queue.length - 1);
         }
