@@ -1,0 +1,10 @@
+{
+  "presets": ["es2015", "es2017", "react"],
+  "plugins": [
+    "transform-runtime",
+    "transform-decorators-legacy",
+    "transform-class-properties",
+    "transform-es2015-spread",
+    "transform-object-rest-spread",
+    "react-hot-loader/babel"]
+}

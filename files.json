@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "id": 1,
+      "name": "img.png",
+      "url": "media/img.png"
+    },
+    {
+      "id": 2,
+      "name": "2.txt",
+      "url": "media/2.txt"
+    },
+    {
+      "id": 3,
+      "name": "3.txt",
+      "url": "media/3.txt"
+    },
+    {
+      "id": 4,
+      "name": "openoffice.tar.gz",
+      "url": "media/openoffice.tar.gz"
+    }
+  ]
+}
